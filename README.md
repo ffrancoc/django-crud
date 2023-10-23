@@ -1,0 +1,1 @@
+# Simple CRUD en Django, SQLite y venv
